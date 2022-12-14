@@ -1,3 +1,5 @@
+**NOTE: This project has been consolidated into DelphiGamekit (https://github.com/tinyBigGAMES/DelphiGamekit)**
+
 ![Simple DirectMedia Layer](media/SDL_logo.png)  
 
 [![Chat on Discord](https://img.shields.io/discord/754884471324672040.svg?logo=discord)](https://discord.gg/tPWjMwK) [![Twitter Follow](https://img.shields.io/twitter/follow/tinyBigGAMES?style=social)](https://twitter.com/tinyBigGAMES)
